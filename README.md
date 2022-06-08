@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![hello](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Triple](https://www.jointriple.com/)
 - 😄 Pronouns: He/him.

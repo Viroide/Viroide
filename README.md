@@ -1,8 +1,6 @@
 ### Hi there 👋
-![hello](https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif)
-
-
-- 🔭 I’m currently working on [Triple](https://www.jointriple.com/)
+![Elliot says hi](img/elliot.gif)
+- 🔭 I’m currently working on [Lingokids](https://www.lingokids.com/)
 - 😄 Pronouns: He/him.
 
 Learning:

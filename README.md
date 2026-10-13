@@ -1,4 +1,4 @@
-# Hi there, I'm Elliot 👋
+# Hi there, I'm Jon E. Eguiluz 👋
 
 ![Elliot says hi](img/elliot.gif)
 

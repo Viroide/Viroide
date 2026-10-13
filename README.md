@@ -1,6 +1,6 @@
 # Hi there, I'm Jon E. Eguiluz 👋
 
-![Elliot says hi](img/elliot.gif)
+![Elliot says hi](img/below.gif)
 
 **Senior Product Engineer** · He/him · Spain (remote)
 

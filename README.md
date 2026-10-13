@@ -12,21 +12,21 @@
 
 TypeScript and JavaScript across the web stack, Python for data analysis, Java and Groovy for production backend services, and Bash for tooling and automation.
 
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Groovy](https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg)
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="64" height="64" alt="TypeScript">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="64" height="64" alt="JavaScript">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="Python">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="Java">
+<img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" width="64" height="64" alt="Groovy">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="64" height="64" alt="Bash">
 
 ## Frontend
 
 React for the customer-facing web app — including ownership of accessibility and end-to-end testing with Playwright.
 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![Playwright](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg)
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="64" height="64" alt="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" alt="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" alt="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="64" height="64" alt="Playwright">
 
 ## Infrastructure
 
@@ -47,6 +47,5 @@ Owning schema design and migrations for PostgreSQL across the services I build. 
 
 Owning product metrics and experimentation in Amplitude, and triaging production issues through Sentry.
 
-![Amplitude](https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg)
-![Sentry](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentr
-y/sentry-original.svg)
+<img src="https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg" width="64" height="64" alt="Amplitude">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" width="64" height="64" alt="Sentry">
